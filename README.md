@@ -10,5 +10,5 @@ Tooth segmentation in dental panoramic X-ray images is a task of great clinical 
 - We designed an edge branch and an edge-aware module to enhance the feature representation of the image encoder in SAM.
 - Across three benchmark datasets, our approach exceeds the performance of current state-of-the-art algorithms, as evidenced by comparative analyses.
 # Installation
-Following [Segment Anything](https://github.com/facebookresearch/segment-anything), python=3.8.16, pytorch=1.8.0, and torchvision=0.9.0 are used in SAMUS.
+Following [Segment Anything](https://github.com/facebookresearch/segment-anything), python=3.8.16, pytorch=1.8.0, and torchvision=0.9.0 are used in EASAM.
 ## Our code will be released soon.
