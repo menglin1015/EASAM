@@ -9,4 +9,6 @@ Tooth segmentation in dental panoramic X-ray images is a task of great clinical 
 - We propose a specialized dental segmentation network, EASAM, designed for segmenting teeth in X-ray, to achieve superior performance on complex anatomical structures and ambiguous lesions. The EASAM model, integrated with the dental imaging system, provides doctors with an automated tool for the rapid and accurate analysis of dental and periodontal tissue images. With the EASAM model’s ability to segment the dental region, it can significantly assist in medical decision-making. For instance, by locating the apical root position, it can determine whether the tooth impacts the mandibular canal. It can also identify regions of the tooth that are difficult to distinguish with the naked eye, aiding in the diagnosis of its effects on the oral cavity.
 - We designed an edge branch and an edge-aware module to enhance the feature representation of the image encoder in SAM.
 - Across three benchmark datasets, our approach exceeds the performance of current state-of-the-art algorithms, as evidenced by comparative analyses.
+# Installation
+Following Segment Anything, python=3.8.16, pytorch=1.8.0, and torchvision=0.9.0 are used in SAMUS.
 ## Our code will be released soon.
